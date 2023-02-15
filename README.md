@@ -1,4 +1,4 @@
-## Pythom stack notebooks 
+## Python stack notebooks 
 
 ### python_matplotlib_vis
 
